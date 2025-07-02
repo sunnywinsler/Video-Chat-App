@@ -41,4 +41,11 @@ A modern, fullstack real-time communication platform supporting chat and video c
 - **Auth**: JSON Web Tokens (JWT)  
 - **State Management**: Zustand  
 - **Video SDK**: [Stream](https://getstream.io/)
-- **Deployment**:  Render 
+- **Deployment**: Render
+
+-  📸 Screenshots
+-  ![Screenshot (89)](https://github.com/user-attachments/assets/9f182aad-7138-42a6-9dff-79df1ed8eaac)
+-  ![Screenshot (92)](https://github.com/user-attachments/assets/d666dd97-ee02-4605-8ae9-5b4e523c526a)
+-  ![Screenshot (94)](https://github.com/user-attachments/assets/f219a4f4-d581-4859-bec9-919bbf362e76)
+
+
